@@ -1971,7 +1971,7 @@ The TypeScript AI agent framework.
 <details>
 
 ### Category
-Assistants, Agents, RAG, observability.
+Workflows, Agents, RAG, Evals.
 
 ### Description
 Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.
